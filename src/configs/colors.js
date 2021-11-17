@@ -1,0 +1,19 @@
+export const primaryGreen = '#57F3A8';
+export const primaryGreenLight = 'rgba(87, 243, 168,0.3)';
+export const primaryBlack = '#000000';
+export const alphaBlack3perct = 'rgba(0,0,0,0.03)';
+export const dullWhite = '#f9f9f9';
+export const primaryWhite = '#FFFFFF';
+export const lightGrey = '#F4F4F4';
+export const primaryLightBlue = '#88F0FD';
+export const primaryBorderColor = '#E8E8E8';
+export const primaryChatUserColor = '#e9f4f5';
+export const textColor = '#484759';
+export const lightBorderColor = '#EEEEEE';
+export const yellow = '#ffdf00';
+export const errorColor = '#FF5151';
+export const borderColor = '#FF5151';
+export const grayColor = 'gray';
+export const redColor = 'red';
+export const darkBlue = '#033954';
+
